@@ -1,6 +1,4 @@
-# SURF BUDDY
----
-### A Full Stack web application that allows you to check current surfing conditions based on your location.
+### Surf Buddy is a full stack web application that allows you to check current surfing conditions based on your location.
 Check it out [here](https://stark-castle-27893.herokuapp.com/)!
 
 
